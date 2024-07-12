@@ -26,12 +26,12 @@ New hailers onboarding process records, 2024.
 팀별 문제와 목표는 다음과 같습니다.
 
 - RUL: ESO Battery Forecasting Hackathon -- Score 1.5 이하 달성 (private)
- - https://www.kaggle.com/competitions/eso-battery-forecasting/overview
+  - https://www.kaggle.com/competitions/eso-battery-forecasting/overview
 - MMM: RSNA Pneumonia Detection Challenge -- Score 0.21 이상 달성 (private)
- - https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge
+  - https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge
 - IPGPT: Toxic Comment Classification Challenge -- Score 0.985 이상 달성 (private)
- - https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge
+  - https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge
 - Videx: Counting and categorizing vehicles in surveillance -- Score 0.92 이상 달성 (priavte)
- - https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance
+  - https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance
 
 
