@@ -1,8 +1,7 @@
 # hailers-onboard-2024
 New hailers onboarding process records, 2024.
 
-## Instruction
-**New HAILers Kaggle Week** / July 13 - 20.
+## Instruction: Kaggle Week / July 13 - 20.
 
 - 연구실 내 비경쟁 경합으로, 향후 수행할 프로젝트와 연관된 (& 종료된) 예측 문제를 팀별로 지정하여, 각 leaderboard에 우리 이름을 올리는 것을 목표로 합니다. 
  - 각 대회별 상위 15% 이내 등수, 혹은 첫번째 변곡점으로 보이는 점수 이상 달성하는 것을 구체적인 달성 지표로 설정합니다.
@@ -22,9 +21,8 @@ New hailers onboarding process records, 2024.
    - 오전 11시
    - 우즈베이커리 https://place.map.kakao.com/m/1544942275
 
--
 
-### Assigned Problems
+## Assigned Problems
 팀별 문제와 목표는 다음과 같습니다.
 
 - RUL: ESO Battery Forecasting Hackathon -- Score 1.5 이하 달성 (private)
