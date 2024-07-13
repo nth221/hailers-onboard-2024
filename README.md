@@ -21,6 +21,15 @@ New hailers onboarding process records, 2024.
     - 오전 11시
     - 우즈베이커리 https://place.map.kakao.com/m/1544942275
 
+## Interim status update
+7월 16일 (화) 오후 중 Zoom을 통해 진도 공유 및 전략 리뷰를 위한 간략한 미팅을 갖습니다.
+
+
+## Final outcomes
+최종 결과는 다음과 같은 형식의 iPython Notebook을 구성하고, 이를 중심으로 발표를 진행합니다.
+ - (샘플 노트 공유 예정)
+
+
 
 ## Assigned Problems
 팀별 문제와 목표는 다음과 같습니다.
