@@ -27,7 +27,14 @@ New hailers onboarding process records, 2024.
 
 ## Final outcomes
 최종 결과는 다음과 같은 형식의 iPython Notebook을 구성하고, 이를 중심으로 발표를 진행합니다.
- - (샘플 노트 공유 예정)
+
+- 샘플 노트북
+  - https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series
+  - https://www.kaggle.com/code/pythonafroz/cnn-vgg16-used-for-solar-panel-fault-detection
+  - https://www.kaggle.com/code/gpreda/covid-19-vaccination-progress
+  - https://www.kaggle.com/code/arthurtok/introduction-to-ensembling-stacking-in-python
+  - https://www.kaggle.com/code/pythonafroz/fault-prediction-using-decision-tree-algorithm
+  - https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
 
 
 
